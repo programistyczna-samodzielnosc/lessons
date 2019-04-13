@@ -51,6 +51,8 @@
 1. Mature możesz zdać na 30%. W pracy robisz do końca
 1. Jeśli spowodowałeś błąd to bierzesz za niego odpowiedzialność i poprawiasz
 1. Masz wyczucie, kiedy zrobić co masz do zrobienia a kiedy zrobic jak najlepiej
+1. Wyrabiasz własne zdanie
+1. Starasz się nie popełniać tego samego błędu drugi raz
 
 
 ## Plan tygodnia
