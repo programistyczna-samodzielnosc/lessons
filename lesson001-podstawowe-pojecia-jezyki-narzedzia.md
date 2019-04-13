@@ -35,6 +35,21 @@
 1. Javascript
 1. NodeJS
 
+## Programistyczna samodzielnosc
+
+1. potrafisz pisać programy
+1. smodzielnie sie uczysz w razie potrzeby
+1. umiesz szukać
+1. umiesz korzystać z dokumentacji
+1. jak nie rozumiesz czegoś to sie pytasz ale najpierw probojesz cos zrobic
+1. jak nie wiesz co zrobic lub cos jest niejasne to sie pytasz kogos kto moze wiedziec ale najpierw zrob drobny research i sprobuj zrozumiec o co chodzi
+1. potrafisz sam siebie motywować
+1. ogarniasz biurokracje dookola siebie
+1. masz w głowie plan rozwoju
+1. pomagasz innym być samodzielnym
+1. pracujesz nad produktem, dla klienta a nie nad kodem
+
+
 ## Plan tygodnia
 
 1. Sobotnie podstawy(prawie każda sobota godz.20.00)
