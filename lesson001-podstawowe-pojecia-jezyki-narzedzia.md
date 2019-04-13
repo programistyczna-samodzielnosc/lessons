@@ -6,6 +6,7 @@
 2. skille miekkie
 3. jezyk angielski
 4. doswiadczenie
+5. ciągłe uczenie się
 
 ## Narzędzia
 
